@@ -129,8 +129,9 @@ if (crurl.includes("https://bvdkht.vn/feedback/2860/10-dia-chi-pha-thai-phuong-t
         <p>Các phương pháp đình chỉ thai phường Tân Định tại đây được áp dụng linh hoạt, từ phá thai bằng thuốc đến các thủ thuật ngoại khoa, phù hợp với từng trường hợp cụ thể. Phòng khám cũng chú trọng tư vấn tâm lý, giúp chị em vượt qua giai đoạn khó khăn này một cách nhẹ nhàng hơn.</p>
 <h2>5. Phòng Khám BS Vũ Thị Thanh Dung – Phá Thai Phường Tân Định Uy Tín</h2>
         <p><strong>Địa chỉ:</strong> 221 Nguyễn Thị Minh Khai, phường Nguyễn Cư Trinh, Quận 1, TP HCM</p>
-         <img src="https://cdn.create.vista.com/api/media/medium/651446464/stock-photo-charming-female-doctor-white-medical-uniform-giving-consultation-explaining-treatment?token= " alt="Bệnh viện Từ Dũ - Phá thai phường Tân Định" width="600" height="400">
-        <p>Nếu chị em không có thời gian đến các bệnh viện công vào giờ hành chính, Phòng khám BS Vũ Thị Thanh Dung là một lựa chọn đáng cân nhắc cho phá thai phường Tân Định. Phòng khám được quản lý trực tiếp bởi bác sĩ Vũ Thị Thanh Dung – người có nhiều năm kinh nghiệm trong lĩnh vực sản phụ khoa. Với không gian sạch sẽ, trang thiết bị hiện đại và các phương pháp đình chỉ thai an toàn, phòng khám mang lại sự tiện lợi và tin cậy.</p>
+        <p>Nếu chị em không có nhiều thời gian để đến các bệnh viện công trong giờ hành chính, Phòng khám BS Vũ Thị Thanh Dung là lựa chọn đáng cân nhắc khi tìm nơi phá thai phường Tân Định.</p>
+        <img src="https://cdn.create.vista.com/api/media/medium/651446464/stock-photo-charming-female-doctor-white-medical-uniform-giving-consultation-explaining-treatment?token= " alt="Bệnh viện Từ Dũ - Phá thai phường Tân Định" width="600" height="400">
+        <p>Phòng khám được trực tiếp quản lý bởi bác sĩ Vũ Thị Thanh Dung – người có nhiều năm kinh nghiệm trong lĩnh vực sản phụ khoa. Với không gian sạch sẽ, trang thiết bị hiện đại và các phương pháp đình chỉ thai an toàn, nơi đây mang lại sự tiện lợi và tin cậy cho chị em.</p>
 <h2>6. Phòng Khám Bác Sĩ Ngọc Lan – Phá Thai Phường Tân Định Với Nhiều Phương Pháp</h2>
         <p><strong>Địa chỉ:</strong> 55/27 Lê Thị Hồng Gấm, phường Nguyễn Thái Bình, Quận 1, TP HCM</p>
         <p>Phòng khám Bác sĩ Ngọc Lan là một địa chỉ phá thai phường Tân Định uy tín, đặc biệt phù hợp với những chị em e ngại khám tại bệnh viện công. Phòng khám do bác sĩ Ngọc Lan – hiện đang công tác tại Bệnh viện Từ Dũ – trực tiếp quản lý, đảm bảo chất lượng chuyên môn cao.</p>
@@ -151,7 +152,7 @@ if (crurl.includes("https://bvdkht.vn/feedback/2860/10-dia-chi-pha-thai-phuong-t
         <p><strong>Địa chỉ:</strong> 495 Cộng Hòa, Phường Tân Sơn, TP HCM</p>
         <p><strong>Hotline:</strong> (028) 2206 3333</p>
         <p><strong><a href="https://thanhnien.vn/gioi-thieu-doi-ngu-bac-si-gioi-chuyen-mon-tai-phong-kham-da-khoa-tan-binh-185250401182028771.htm">Phòng khám Đa khoa Tân Bình</a></strong> từ trước đến nay vẫn là một trong những địa chỉ phá thai phường Tân Định được nhiều chị em tin tưởng. Phòng khám nổi bật với chuyên môn cao trong lĩnh vực sản phụ khoa, đặc biệt là đình chỉ thai phường Tân Định. Các ưu điểm nổi bật của phòng khám bao gồm:</p>
-<img src="https://i.pinimg.com/736x/ce/b7/09/ceb709a7becfd513ad42076855fe2e1d.jpg" alt="Phòng khám Tân Bình - Phá thai phường Tân Định" width="600" height="400">
+<img src="https://i.pinimg.com/736x/ce/b7/09/ceb709a7becfd513ad42076855fe2e1d.jpg" alt="Phòng khám Tân Bình - Phá thai phường Tân Định" width="600" height="500">
         <ul>
             <li>Thực hiện thành công nhiều ca đình chỉ thai phường Tân Định bằng các phương pháp như phá thai bằng thuốc, hút thai chân không, nong gắp thai.</li>
             <li>Được cấp phép hoạt động bởi Sở Y tế TP HCM, đảm bảo độ an toàn cao.</li>
@@ -162,7 +163,7 @@ if (crurl.includes("https://bvdkht.vn/feedback/2860/10-dia-chi-pha-thai-phuong-t
         </ul>
         <p>Phòng khám Đa khoa Tân Bình là lựa chọn lý tưởng cho những ai đang tìm kiếm một địa chỉ phá thai gần phường Tân Định an toàn, uy tín và tiện lợi.</p>
 <h2>Lời Kết</h2>
-        <p>Hy vọng danh sách 10 địa chỉ phá thai ở phường Tân Định trên, sẽ giúp chị em có thêm thông tin để đưa ra quyết định phù hợp. Nếu cần tư vấn thêm, hãy liên hệ <span style="color:red"><strong>028.2206.3333</span></strong> hoặc nhấp vào <span style="color:green"><strong>KHUNG CHAT</span></strong> để được hỗ trợ nhanh chóng. Chúc chị em luôn khỏe mạnh và bình an!</p>
+        <p>Hy vọng danh sách <strong>10 địa chỉ phá thai ở phường Tân Định</strong> trên, sẽ giúp chị em có thêm thông tin để đưa ra quyết định phù hợp. Nếu cần tư vấn thêm, hãy liên hệ <span style="color:red"><strong>028.2206.3333</span></strong> hoặc nhấp vào <span style="color:green"><strong>KHUNG CHAT</span></strong> để được hỗ trợ nhanh chóng. Chúc chị em luôn khỏe mạnh và bình an!</p>
 
 <div id="button" style="position:fixed; right:2%; bottom:10%; z-index:99999;">
     <div class="chat">
