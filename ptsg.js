@@ -322,6 +322,9 @@ if (crurl.includes("https://bvdkht.vn/feedback/2860/mua-thuoc-pha-thai-o-dau-tph
         <div id="content">
 <h1 style="text-align:center">Mua thuốc phá thai ở đâu? 12+ nơi phá thai bằng thuốc chất lượng TPHCM</h1>
 <p>Theo thống kê y tế, mỗi năm có hàng nghìn trường hợp mang thai ngoài ý muốn, phần lớn rơi vào hoàn cảnh khó khăn hoặc chưa sẵn sàng làm mẹ. Nhiều chị em vì thiếu hiểu biết hoặc do lo sợ kỳ thị nên tìm đến cơ sở kém chất lượng, tiềm ẩn rủi ro lớn cho sức khỏe. Bài viết này sẽ giải đáp <strong><a href="https://bvdkht.vn/feedback/2860/mua-thuoc-pha-thai-o-dau-tphcm.html">Mua thuốc phá thai ở đâu? 12+ nơi phá thai bằng thuốc chất lượng TPHCM</a></strong> để chị em yên tâm chọn lựa.</p>
+<div style="text-align: center;">
+  <a href="https://mfp.zoosnet.net/LR/Chatpre.aspx?id=MFP16752728&lng=en&p=https://dakhoatanbinh.vn/" target="_blank">
+    <img src="https://dakhoatanbinh.neocities.org/files/chat-phathai.gif" alt="Tư vấn trực tuyến" style="max-width:100%; height:auto;"> </a> </div>
 <h2>Tìm hiểu về phương phá phá thai bằng thuốc</h2>
 <p>Phá thai bằng thuốc (hay còn gọi là phá thai nội khoa) được nhiều chị em lựa chọn vì không cần can thiệp ngoại khoa, ít gây tổn thương tử cung và kín đáo hơn. Tuy nhiên, đây không phải là phương pháp có thể tự ý thực hiện tại nhà. Bác sĩ sản phụ khoa khuyến cáo, chỉ khi thỏa mãn đúng điều kiện sức khỏe và tuổi thai thì mới được phép áp dụng. Nếu không, biến chứng như băng huyết, sót thai, nhiễm trùng hoàn toàn có thể xảy ra.</p>
 <h3>Phá thai bằng thuốc là như thế nào?</h3>
