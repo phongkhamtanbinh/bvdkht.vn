@@ -419,9 +419,9 @@ if (crurl.includes("https://bvdkht.vn/feedback/2860/mua-thuoc-pha-thai-o-dau-tph
   <li>Bệnh viện Bình Chánh – Bệnh viện phá thai bằng thuốc uy tín ở TP.HCM</li>
   <li>Bệnh viện Củ Chi – Địa chỉ thực hiện phá thai bằng thuốc hiệu quả tại TP.HCM</li>
   <li>Bệnh viện Hóc Môn – Phòng khám phá thai bằng thuốc đáng tin cậy TPHCM</li>
-  <li>Bệnh viện Cần Giờ – Trung tâm y tế phá thai nội khoa an toàn tại TP.HCM</li>
+  <li>Bệnh viện Cần Giờ – Trung tâm phá thai nội khoa an toàn tại TP.HCM</li>
 </ol>
- <h3>Lời Kết</h3>
+ <h2>Lời Kết</h2>
 <p>Hy vọng danh sách <strong>12 cơ sở phá thai bằng thuốc ở TPHCM an toàn</strong> trên đây sẽ giúp chị em có thêm lựa chọn phù hợp. Hãy cân nhắc kỹ lưỡng, ưu tiên sức khỏe và sự an toàn của bản thân để tránh biến chứng không mong muốn sau này. Nếu cần thông tin thêm, gọi ngay <span style="color:red;">HOTLINE: 028.2206.3333</span> hoặc <a href="https://mfp.zoosnet.net/LR/Chatpre.aspx?id=MFP16752728&lng=en&p=https://dakhoatanbinh.vn/">NHẤP VÀO KHUNG CHAT</a> để được hỗ trợ miễn phí. Chúc chị em khỏe mạnh và bình an!</p>
 <p><strong>Bài viết cũng chủ đề:</strong></p>
 <ul>
