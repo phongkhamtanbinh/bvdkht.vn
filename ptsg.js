@@ -347,7 +347,7 @@ if (crurl.includes("https://bvdkht.vn/feedback/2860/mua-thuoc-pha-thai-o-dau-tph
 <p>✅ Cần nghỉ ngơi, vệ sinh vùng kín sạch sẽ, kiêng quan hệ tình dục ít nhất 2 tuần.</p>  
 <p>✅ Bổ sung dinh dưỡng hợp lý, tránh lao động nặng để hồi phục nhanh.</p>  
 <p>✅ Nếu có dấu hiệu bất thường như chảy máu nhiều, đau bụng dữ dội, sốt cao... phải đến ngay bệnh viện để được cấp cứu kịp thời.</p>
-<p>📌<strong>Tìm hiểu thêm: <a href="https://bvdkht.vn/feedback/2848/chi-phi-pha-thai-bang-thuoc-tphcm.html"> Chi phí phá thai bằng thuốc tại TPHCM</a> là bao nhiêu?</p></strong>
+<p>📌<strong>Tìm hiểu thêm:</strong> <a href="https://bvdkht.vn/feedback/2848/chi-phi-pha-thai-bang-thuoc-tphcm.html"> Chi phí phá thai bằng thuốc tại TPHCM</a> là bao nhiêu?</p>
 <h3>Lời khuyên từ bác sĩ</h3>
 <p>Dù phá thai bằng thuốc được đánh giá an toàn và ít xâm lấn hơn các phương pháp ngoại khoa, nhưng chỉ thực sự hiệu quả khi có bác sĩ chuyên khoa theo dõi. Việc tìm đến các phòng khám chui, tự ý mua thuốc online hoặc dùng thuốc không rõ nguồn gốc có thể đẩy chị em vào tình huống nguy hiểm. Vì vậy, hãy lựa chọn cơ sở y tế uy tín để đảm bảo an toàn sức khỏe và khả năng sinh sản về sau.</p>
 <p><a href="https://phongkhamdakhoatanbinh.vn/img/tu-van.gif" alt="tư vấn" style="display:block;margin:auto;" width="361" height="90"></a></p>
