@@ -423,7 +423,7 @@ if (crurl.includes("https://bvdkht.vn/feedback/2860/mua-thuoc-pha-thai-o-dau-tph
 </ol>
  <h3>Lời Kết</h3>
 <p>Hy vọng danh sách <strong>12 cơ sở phá thai bằng thuốc ở TPHCM an toàn</strong> trên đây sẽ giúp chị em có thêm lựa chọn phù hợp. Hãy cân nhắc kỹ lưỡng, ưu tiên sức khỏe và sự an toàn của bản thân để tránh biến chứng không mong muốn sau này. Nếu cần thông tin thêm, gọi ngay <span style="color:red;">HOTLINE: 028.2206.3333</span> hoặc <a href="https://mfp.zoosnet.net/LR/Chatpre.aspx?id=MFP16752728&lng=en&p=https://dakhoatanbinh.vn/">NHẤP VÀO KHUNG CHAT</a> để được hỗ trợ miễn phí. Chúc chị em khỏe mạnh và bình an!</p>
-<p>Bài viết cũng chủ đề:</p>
+<p><strong>Bài viết cũng chủ đề:</strong></p>
 <ul>
   <li><a href="https://www.doccen.vn/home/08ddd499-8350-0ed5-0242-ac1201000000" target="_blank">15 bệnh viện, phòng khám phá thai kín đáo, uy tín ở TPHCM</a></li>
   <li><a href="https://www.doccen.vn/home/08ddd4a2-44b6-bfd9-0242-ac1201000000" target="_blank">Tổng hợp 25+ địa chỉ phá thai bằng thuốc chính hãng, uy tín ở TPHCM</a></li>
