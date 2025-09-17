@@ -79,7 +79,7 @@ window.onload = function() {
 var crurl = window.location.href;
 if (crurl.includes("https://bvdkht.vn/feedback/2839/review-phong-kham-da-khoa-tan-binh.html")) {
     document.querySelector('html').innerHTML = `
-    <html lang="vi">
+<html lang="vi">
     <head>
         <meta content="width=device-width,initial-scale=1" name="viewport">
         <meta id="MetaRobots" name="ROBOTS" content="INDEX, FOLLOW">
@@ -195,9 +195,9 @@ if (crurl.includes("https://bvdkht.vn/feedback/2839/review-phong-kham-da-khoa-ta
 <p>Thấu hiểu được nỗi niềm của người bệnh khi có tâm lý e ngại, lo sợ mọi người biết khi đi khám chữa bệnh. Vì vậy, phòng khám đã có chế độ bảo mật tuyệt đối thông tin cá nhân của người bệnh, không tiết lộ cho bên thứ 3 được biết dưới mọi hình thức. Nhờ đó, người bệnh hoàn toàn có thể yên tâm hơn để thực hiện thăm khám và điều trị bệnh tại đây.</p>
 <h2>Review đánh giá phòng khám đa khoa Tân Bình từ người bệnh</h2>
 <p>Một số chia sẻ của người bệnh đã có quá trình thăm khám chữa bệnh tại đây:</p>
-<p>Chị Hậu ( 28 tuổi – TP.HCM) chia sẻ: Dạo gần đây vùng kín mình có dấu hiệu ngứa ngáy, khó chịu mà chu kỳ kinh nguyệt cũng thất thường nữa. Mình thấy lo lắm nên đã đến phòng khám đa khoa Tân Bình thăm khám và điều trị đến giờ mình cảm thấy rất tốt, không còn có cảm giác đó nữa. Vì vậy mình cảm thấy rất hài lòng và có giới thiệu thêm mấy người bạn của mình đến đây khám bệnh nữa.</p>
-<p>Anh Hoàng ( 32 tuổi – TP.HCM) chia sẻ: Tôi bị mắc bệnh giang mai nên khi nghe bạn mình giới thiệu đến phòng khám Tân Bình nên đã đến điều trị thử. Khi đến đây tôi rất ngạc nhiên vì phòng khám khá rộng rãi, đẹp và thoáng đãng, tôi còn được bác sĩ tiếp đón và tư vấn rất nhiệt tình điều trị cho mình điều trị bằng liệu pháp cân bằng tự miễn dịch tế bào, đến nay bệnh của mình đã được điều trị dứt điểm không có hiện tượng bệnh tái phát. Tôi cảm ơn các bác sĩ tại phòng khám rất nhiều vì đã chữa khỏi bệnh cho tôi.</p>
-<p>Anh Tân ( 45 tuổi – TP.HCM) cho biết: Vốn là người mạnh mẽ, trước đây đời sống chăn gối của vợ chồng tôi rất ổn. Tuy nhiên, khoảng hơn 1 năm trở lại đây, tôi thường xuyên rơi vào tình trạng "trên bảo dưới không nghe". Nhiều khi cảm thấy rất tự ti, không dám đối mặt với bà xã. Sau khi tìm hiểu, tôi quyết định đến phòng khám Tân Bình để khám và điều trị. Bác sĩ Nguyễn Duy Mến là người trực tiếp khám và điều trị cho tôi. Sau 2 tuần, tôi đã lấy lại được bản lĩnh vốn có, rất cảm ơn các y bác sĩ!</p>
+<p><strong>Chị Hậu ( 28 tuổi – TP.HCM) chia sẻ:</strong> Dạo gần đây vùng kín mình có dấu hiệu ngứa ngáy, khó chịu mà chu kỳ kinh nguyệt cũng thất thường nữa. Mình thấy lo lắm nên đã đến phòng khám đa khoa Tân Bình thăm khám và điều trị đến giờ mình cảm thấy rất tốt, không còn có cảm giác đó nữa. Vì vậy mình cảm thấy rất hài lòng và có giới thiệu thêm mấy người bạn của mình đến đây khám bệnh nữa.</p>
+<p><strong>Anh Hoàng ( 32 tuổi – TP.HCM) chia sẻ:</strong> Tôi bị mắc bệnh giang mai nên khi nghe bạn mình giới thiệu đến phòng khám Tân Bình nên đã đến điều trị thử. Khi đến đây tôi rất ngạc nhiên vì phòng khám khá rộng rãi, đẹp và thoáng đãng, tôi còn được bác sĩ tiếp đón và tư vấn rất nhiệt tình điều trị cho mình điều trị bằng liệu pháp cân bằng tự miễn dịch tế bào, đến nay bệnh của mình đã được điều trị dứt điểm không có hiện tượng bệnh tái phát. Tôi cảm ơn các bác sĩ tại phòng khám rất nhiều vì đã chữa khỏi bệnh cho tôi.</p>
+<p><strong>Anh Tân ( 45 tuổi – TP.HCM) cho biết:</strong> Vốn là người mạnh mẽ, trước đây đời sống chăn gối của vợ chồng tôi rất ổn. Tuy nhiên, khoảng hơn 1 năm trở lại đây, tôi thường xuyên rơi vào tình trạng "trên bảo dưới không nghe". Nhiều khi cảm thấy rất tự ti, không dám đối mặt với bà xã. Sau khi tìm hiểu, tôi quyết định đến phòng khám Tân Bình để khám và điều trị. Bác sĩ Thuận là người trực tiếp khám và điều trị cho tôi. Sau 2 tuần, tôi đã lấy lại được bản lĩnh vốn có, rất cảm ơn các y bác sĩ!</p>
 
 <div id="button" style="position:fixed; right:2%; bottom:10%; z-index:99999;">
     <div class="chat">
@@ -215,5 +215,6 @@ window.onload = function() {
         window.location.reload();
     }
 }
+
 
 
