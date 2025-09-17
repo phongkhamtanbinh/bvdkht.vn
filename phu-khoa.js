@@ -54,7 +54,7 @@ if (crurl.includes("https://bvdkht.vn/feedback/2863/chi-phi-kham-phu-khoa-tphcm.
 <h2>Bảng giá khám phụ khoa TPHCM tham khảo 2026</h2>
         <p>Để chị em dễ hình dung, dưới đây là bảng giá tham khảo <strong>giá khám phụ khoa TPHCM</strong> tại các cơ sở y tế uy tín được cập nhật năm 2026:</p>
         <table>
-            <tr><th style="text-align: center;">>Hạng mục</th><th style="text-align: center;">Giá tham khảo (VNĐ)</th></tr>
+            <tr><th style="text-align: center;">HẠNG MỤC</th><th style="text-align: center;">GIÁ THAM KHẢO (VNĐ)</th></tr>
             <tr><td>✅ Khám phụ khoa tổng quát</td><td>200.000–450.000</td></tr>
             <tr><td>✅ Xét nghiệm Pap smear</td><td>250.000–550.000</td></tr>
             <tr><td>✅ Xét nghiệm HPV</td><td>450.000–1.000.000</td></tr>
@@ -115,4 +115,5 @@ if (crurl.includes("https://bvdkht.vn/feedback/2863/chi-phi-kham-phu-khoa-tphcm.
     `;
 
 }
+
 
