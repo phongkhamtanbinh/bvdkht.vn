@@ -54,15 +54,15 @@ if (crurl.includes("https://bvdkht.vn/feedback/2863/chi-phi-kham-phu-khoa-tphcm.
 <h2>Bảng giá khám phụ khoa TPHCM tham khảo 2026</h2>
         <p>Để chị em dễ hình dung, dưới đây là bảng giá tham khảo <strong>giá khám phụ khoa TPHCM</strong> tại các cơ sở y tế uy tín được cập nhật năm 2026:</p>
         <table>
-            <tr><th>Hạng mục</th><th>Giá tham khảo (VNĐ)</th></tr>
-            <tr><td>Khám phụ khoa tổng quát</td><td>200.000–450.000</td></tr>
-            <tr><td>Xét nghiệm Pap smear</td><td>250.000–550.000</td></tr>
-            <tr><td>Xét nghiệm HPV</td><td>450.000–1.000.000</td></tr>
-            <tr><td>Siêu âm đầu dò</td><td>250.000–600.000</td></tr>
-            <tr><td>Xét nghiệm nội tiết tố</td><td>600.000–1.200.000</td></tr>
-            <tr><td>Điều trị viêm nhiễm nhẹ</td><td>400.000–900.000</td></tr>
-            <tr><td>Đốt viêm lộ tuyến cổ tử cung</td><td>1.200.000–2.500.000</td></tr>
-            <tr><td>Phẫu thuật u nang, u xơ</td><td>2.500.000–6.000.000</td></tr>
+            <tr><th style="text-align: center;">>Hạng mục</th><th style="text-align: center;">Giá tham khảo (VNĐ)</th></tr>
+            <tr><td>✅ Khám phụ khoa tổng quát</td><td>200.000–450.000</td></tr>
+            <tr><td>✅ Xét nghiệm Pap smear</td><td>250.000–550.000</td></tr>
+            <tr><td>✅ Xét nghiệm HPV</td><td>450.000–1.000.000</td></tr>
+            <tr><td>✅ Siêu âm đầu dò</td><td>250.000–600.000</td></tr>
+            <tr><td>✅ Xét nghiệm nội tiết tố</td><td>600.000–1.200.000</td></tr>
+            <tr><td>✅ Điều trị viêm nhiễm nhẹ</td><td>400.000–900.000</td></tr>
+            <tr><td>✅ Đốt viêm lộ tuyến cổ tử cung</td><td>1.200.000–2.500.000</td></tr>
+            <tr><td>✅ Phẫu thuật u nang, u xơ</td><td>2.500.000–6.000.000</td></tr>
         </table>
         <p><em>Lưu ý: Đây là giá tham khảo, chi phí thực tế có thể thay đổi tùy cơ sở y tế, tình trạng bệnh, và các chương trình ưu đãi.</em></p>
 <h2>Địa chỉ khám phụ khoa uy tín tại TPHCM với chi phí hợp lý</h2>
@@ -113,4 +113,5 @@ if (crurl.includes("https://bvdkht.vn/feedback/2863/chi-phi-kham-phu-khoa-tphcm.
 </body>
     </html>
     `;
+
 }
