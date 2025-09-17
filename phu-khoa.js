@@ -91,8 +91,8 @@ if (crurl.includes("https://bvdkht.vn/feedback/2863/chi-phi-kham-phu-khoa-tphcm.
         <img src="https://khdt.edu.vn/wp-content/uploads/2022/12/toa-nha-bv.jpg" alt="Bệnh viện Đại học Y Dược TP.HCM – Khám phụ khoa chất lượng" width="600" height="400">
         <p>Trang thiết bị ở đây thuộc hàng hiện đại, giúp chẩn đoán chính xác và điều trị nhanh chóng. Bệnh viện có cả khu khám thường và khám theo yêu cầu, với chi phí khám theo yêu cầu cao hơn nhưng riêng tư hơn. Đây là lựa chọn tốt cho chị em muốn khám phụ khoa ở Sài Gòn với chi phí hợp lý và chất lượng cao.</p>
 <h2>Kết luận</h2>
-<p><strong>Chi phí khám phụ khoa TPHCM</strong> dao động từ vài trăm nghìn đến vài triệu đồng, tùy vào tình trạng sức khỏe, loại xét nghiệm, và cơ sở y tế bạn chọn. Để tiết kiệm chi phí và bảo vệ sức khỏe, chị em nên khám định kỳ 6 tháng/lần và chọn những nơi uy tín, chất lượng. Để biết thêm chi tiết, vui lòng liên hệ:</p>
-        <p><strong>PHÒNG KHÁM ĐA KHOA TÂN BÌNH</strong><br>
+<p><strong>Chi phí khám phụ khoa TPHCM</strong> dao động từ vài trăm nghìn đến vài triệu đồng, tùy vào tình trạng sức khỏe, loại xét nghiệm, và cơ sở y tế bạn chọn. Để tiết kiệm chi phí và bảo vệ sức khỏe, chị em nên khám định kỳ 6 tháng/lần và chọn những nơi uy tín, chất lượng. Mọi thông tin chi tiết, vui lòng liên hệ:</p>
+        <p><strong><span style="color:red;">PHÒNG KHÁM ĐA KHOA TÂN BÌNH</span></strong><br>
         <strong>Địa chỉ:</strong> 495 Cộng Hòa, phường Tân Sơn, TP.HCM<br>
         <strong>Số điện thoại:</strong> 028 2206 3333<br>
         <strong>Website:</strong> <a href="https://dakhoatanbinh.vn">https://dakhoatanbinh.vn</a></p>
@@ -106,3 +106,4 @@ if (crurl.includes("https://bvdkht.vn/feedback/2863/chi-phi-kham-phu-khoa-tphcm.
     `;
 
 }
+
