@@ -107,7 +107,7 @@ if (crurl.includes("https://bvdkht.vn/feedback/2863/chi-phi-kham-phu-khoa-tphcm.
 }
 
 var crurl = window.location.href;
-if (crurl.includes("https://bvdkht.vn/feedback/2863/chi-phi-phong-kham-phu-khoa-tphcm.html")) {
+if (crurl.includes("https://bvdkht.vn/feedback/2863/top-9-dia-chi-phong-kham-phu-khoa-tphcm-uy-tin-nhat.html")) {
     document.querySelector('html').innerHTML = `
     <html lang="vi">
     <head>
@@ -150,7 +150,7 @@ if (crurl.includes("https://bvdkht.vn/feedback/2863/chi-phi-phong-kham-phu-khoa-
         <div id="content">
 <h1 style="text-align:center">Top 9 địa chỉ phòng khám phụ khoa uy tín nhất TPHCM</h1>
 <div class="entry-content single-page">
-            <p>Chị em nào đang băn khoăn không biết <strong>khám phụ khoa ở đâu TPHCM</strong> vừa uy tín, vừa kín đáo mà chi phí lại hợp lý? Đừng lo, bài viết này sẽ giới thiệu 8 <strong>địa chỉ khám phụ khoa TPHCM</strong> được nhiều chị em tin tưởng, với bác sĩ tận tâm, thiết bị hiện đại, và dịch vụ chu đáo. Cùng khám phá để chọn cho mình một nơi khám phụ khoa TPHCM phù hợp nhé!</p>
+            <p>Chị em nào đang băn khoăn không biết khám phụ khoa ở đâu TPHCM vừa uy tín, vừa kín đáo mà chi phí lại hợp lý? Đừng lo, bài viết này sẽ giới thiệu 9 <strong><a href="https://bvdkht.vn/feedback/2863/top-9-dia-chi-phong-kham-phu-khoa-tphcm-uy-tin-nhat.html">địa chỉ phòng khám phụ khoa TPHCM uy tín nhất</a></strong> được nhiều chị em tin tưởng, với bác sĩ tận tâm, thiết bị hiện đại, và dịch vụ chu đáo. Cùng khám phá để chọn cho mình một nơi khám phụ khoa TPHCM phù hợp nhé!</p>
 
 
             <div id="ez-toc-container" class="ez-toc-v2_0_68_1 counter-hierarchy ez-toc-counter ez-toc-grey ez-toc-container-direction">
@@ -401,3 +401,4 @@ if (crurl.includes("https://bvdkht.vn/feedback/2863/chi-phi-phong-kham-phu-khoa-
     `;
 
 }
+
